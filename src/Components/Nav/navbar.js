@@ -2,6 +2,8 @@ import React from 'react';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import NavDropdown from 'react-bootstrap/NavDropdown'
+import Cover  from '../images/James Torres Jr cover letter.pdf'
+import Resume from '../images/Resume.pdf'
 
 function NavMe() {
     return (
@@ -20,8 +22,8 @@ function NavMe() {
                     </NavDropdown>
                 </Nav>
                 <Nav>
-                    <Nav.Link href="#deets">Resume</Nav.Link>
-                    <Nav.Link eventKey={2} href="#memes">
+                    <Nav.Link href={Resume}>Resume</Nav.Link>
+                    <Nav.Link eventKey={2} href={Cover}>
                         Cover Letter
             </Nav.Link>
                 </Nav>

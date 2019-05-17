@@ -1,6 +1,7 @@
 import React from 'react';
-import Jumbotron from 'react-bootstrap/Jumbotron'
-import Media from 'react-bootstrap/Media'
+import Jumbotron from 'react-bootstrap/Jumbotron';
+import Media from 'react-bootstrap/Media';
+import Me from "../images/me.jpg"
 
 
 function Jumbo() {
@@ -9,10 +10,10 @@ function Jumbo() {
         <h1>About Me</h1>
         <Media>
     <img
-      width={64}
-      height={64}
+      width={150}
+      height={180}
       className="align-self-center mr-3"
-      src="holder.js/64x64"
+      src= {Me}
       alt="Generic placeholder"
     />
     <Media.Body>
