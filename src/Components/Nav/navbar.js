@@ -17,8 +17,8 @@ function NavMe() {
                         <NavDropdown.Item href="#action/3.2">Contact</NavDropdown.Item>
                         <NavDropdown.Item href="#action/3.3">Portfolio</NavDropdown.Item>
                         <NavDropdown.Divider />
-                        <NavDropdown.Item href="#action/3.4">Git</NavDropdown.Item>
-                        <NavDropdown.Item href="#action/3.4">LinkedIn</NavDropdown.Item>
+                        <NavDropdown.Item href="https://github.com/JamTor1994" target="_blank">Git</NavDropdown.Item>
+                        <NavDropdown.Item href="https://www.linkedin.com/in/james-torres-59b158175/" target="_blank">LinkedIn</NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
                 <Nav>
