@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import Port from '../portfolio.json'
+import Title from './title'
+import Wrapper from './wrapper'
+import PortCard from './PortCard'
 
 class Card extends Component {
     state = {
@@ -9,7 +12,7 @@ class Card extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Projects</Title>
+                <Title>Project</Title>
                 {this.state.Port.map(Port => (
                     <PortCard
                         id={Port.id}
@@ -24,4 +27,4 @@ class Card extends Component {
         );
     }
 }
-export default Cardbody;
+export default Card;

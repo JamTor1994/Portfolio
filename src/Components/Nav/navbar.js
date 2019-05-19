@@ -8,14 +8,14 @@ import Resume from '../images/Resume.pdf'
 function NavMe() {
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-            <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+            <Navbar.Brand>torresjames48@yahoo.com</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
                     <NavDropdown title="Navigation" id="collasible-nav-dropdown">
                         <NavDropdown.Item href="#action/3.1">About Me</NavDropdown.Item>
-                        <NavDropdown.Item href="#action/3.2">Contact</NavDropdown.Item>
-                        <NavDropdown.Item href="#action/3.3">Portfolio</NavDropdown.Item>
+                        {/* <NavDropdown.Item href="#action/3.2">Contact</NavDropdown.Item> */}
+                        <NavDropdown.Item href="/portfolio">Portfolio</NavDropdown.Item>
                         <NavDropdown.Divider />
                         <NavDropdown.Item href="https://github.com/JamTor1994" target="_blank">Git</NavDropdown.Item>
                         <NavDropdown.Item href="https://www.linkedin.com/in/james-torres-59b158175/" target="_blank">LinkedIn</NavDropdown.Item>
