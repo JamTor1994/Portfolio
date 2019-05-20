@@ -3,7 +3,7 @@
       "id": "one",
       "name": "Pyschic Game",
       "image": "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-      "text": "The objective of this project was to write a program with JavaScript that would interact with users. The program generates a random letter for the user to guess. If the user guessed correctly they would gain a win. if the user guessed incorrectly they would get a loss. The program consists of an array which is then put into a loop to generate a letter. Such as a, there are if, else statements to make the conditions so that the user would gain wins, losses, or run out of guesses.",
+      "text": "The objective of this project was to write a program with JavaScript that would interact with users. The program generates a random letter for the user to guess.",
       "git": "https://github.com/JamTor1994/Psychic-Game.git",
       "deployed" : "https://jamtor1994.github.io/Psychic-Game/"
     },

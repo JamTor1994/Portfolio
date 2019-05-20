@@ -3,6 +3,7 @@ import Port from '../portfolio.json'
 import Title from './title'
 import Wrapper from './wrapper'
 import PortCard from './PortCard'
+import './card.css'
 
 class Card extends Component {
     state = {

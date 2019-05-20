@@ -4,3 +4,13 @@
     left: 25%;
     top: 20%;
 }
+
+
+@media only screen and (max-width: 780px) {
+  .jumbotron{ 
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 12%;
+    }
+} 
