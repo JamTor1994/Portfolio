@@ -33,7 +33,7 @@
     },
     {
       "id": "five",
-      "name": "Giph",
+      "name": "Giphy",
       "image": "https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif",
       "text": "This project uses an api key that utilizes ajax to call upon data from giphy. This will allow uses to retrieve certain elements from giphy to assist in building our giphy finder site",
       "git": "https://github.com/JamTor1994/GifyProject.git",
@@ -59,7 +59,7 @@
       "id": "eight",
       "name": "Dat-a-Pet-2",
       "image": "https://s-media-cache-ak0.pinimg.com/736x/71/70/61/7170612509c73701ad04f940d03abc07--old-english-bulldogs-english-bulldog-puppies.jpg",
-      "text": "Group 3 Project",
+      "text": "Group 3 Projet 3, Developed an app that takes in pet user medical information and is able to be shared with others. This app made with React, SQL, and Materalize Css.",
       "git": "https://github.com/baldowin/2-dat-a-pet",
       "deployed" : "https://datapet2.herokuapp.com/"
     }

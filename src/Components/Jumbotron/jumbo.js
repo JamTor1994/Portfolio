@@ -19,11 +19,7 @@ function Jumbo() {
                 <Media.Body>
                     <h5>James Torres Jr</h5>
                     <p>
-                        I am a hard worker and enjoy new challenges. I take my responsibilities seriously and I
-                          am a fast learner. I enjoy working with teams and when assigned a task will work alone
-                          or together to complete the assignment at hand.
-                          I look forward to be granted a personal interview and I hope my qualifications will meet
-                          your organizations requirement 
+                    I am James Torres Jr. and I am an entry level Full Stack developer with a recent technical degree from the University of Texas.  My goals are to becoming a front end designer, mobile developer or a Full Stack manager. I have accomplished programming in Java, HTML, PHP, CSS, DB, SQL and REACT.js. I am a driven individual who is passionate about coding. I inherently put forth my best effort for the clients and company. My past employment has proven that I am a good employee who is timely, follow instructions and puts the goals of the company first. To find out more about me and example of my coding skills please visit https://github.com/JamTor1994 .
                     </p>
                 </Media.Body>
             </Media>
