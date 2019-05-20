@@ -58,10 +58,18 @@
     {
       "id": "eight",
       "name": "Dat-a-Pet-2",
-      "image": "https://s-media-cache-ak0.pinimg.com/736x/71/70/61/7170612509c73701ad04f940d03abc07--old-english-bulldogs-english-bulldog-puppies.jpg",
+      "image": "https://images.unsplash.com/photo-1525461649729-85047df1630f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
       "text": "Group 3 Projet 3, Developed an app that takes in pet user medical information and is able to be shared with others. This app made with React, SQL, and Materalize Css.",
       "git": "https://github.com/baldowin/2-dat-a-pet",
       "deployed" : "https://datapet2.herokuapp.com/"
+    },
+    {
+      "id": "nine",
+      "name": "Clicky Game",
+      "image": "https://images.unsplash.com/photo-1493217465235-252dd9c0d632?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "text": "A Click matching game developed with a self made json file and React",
+      "git": "https://github.com/JamTor1994/ClickyGameReact.git",
+      "deployed" : "https://tranquil-coast-89369.herokuapp.com/"
     }
   ]
   
