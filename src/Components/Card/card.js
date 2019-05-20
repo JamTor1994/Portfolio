@@ -12,15 +12,17 @@ class Card extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Project</Title>
+                <Title>Projects</Title>
+                <hr></hr>
                 {this.state.Port.map(Port => (
-                    <PortCard
+                    <PortCard 
                         id={Port.id}
                         key={Port.id}
                         name={Port.name}
                         image={Port.image}
                         text={Port.text}
                         git={Port.git}
+                        deployed={Port.deployed}
                     />
                 ))}
             </Wrapper>

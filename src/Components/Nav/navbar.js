@@ -13,12 +13,12 @@ function NavMe() {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
                     <NavDropdown title="Navigation" id="collasible-nav-dropdown">
-                        <NavDropdown.Item href="#action/3.1">About Me</NavDropdown.Item>
+                        <NavDropdown.Item href="/">About Me</NavDropdown.Item>
                         {/* <NavDropdown.Item href="#action/3.2">Contact</NavDropdown.Item> */}
                         <NavDropdown.Item href="/portfolio">Portfolio</NavDropdown.Item>
                         <NavDropdown.Divider />
                         <NavDropdown.Item href="https://github.com/JamTor1994" target="_blank">Git</NavDropdown.Item>
-                        <NavDropdown.Item href="https://www.linkedin.com/in/james-torres-59b158175/" target="_blank">LinkedIn</NavDropdown.Item>
+                        <NavDropdown.Item href="https://www.linkedin.com/in/james-torres-59b158175/" target="_blank">Linked In</NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
                 <Nav>

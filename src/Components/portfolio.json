@@ -1,87 +1,67 @@
 [
     {
-      "id": 1,
-      "name": "Asta",
-      "image": "https://www.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/asta.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "one",
+      "name": "Pyschic Game",
+      "image": "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "text": "The objective of this project was to write a program with JavaScript that would interact with users. The program generates a random letter for the user to guess. If the user guessed correctly they would gain a win. if the user guessed incorrectly they would get a loss. The program consists of an array which is then put into a loop to generate a letter. Such as a, there are if, else statements to make the conditions so that the user would gain wins, losses, or run out of guesses.",
+      "git": "https://github.com/JamTor1994/Psychic-Game.git",
+      "deployed" : "https://jamtor1994.github.io/Psychic-Game/"
     },
     {
-      "id": 2,
-      "name": "Yami",
-      "image": "http://www.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/yami.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "two",
+      "name": "Catchup!",
+      "image": "https://cdn.discordapp.com/attachments/568868903564869711/568871296067305481/unknown.png",
+      "text": "Group project 1 in this project we used firbase database to hold location data from a mapping api and would display on your phone showing where you and your friends so u can catchup!",
+      "git": "https://github.com/derekgeorg/project_1_junkd.git",
+      "deployed" : "https://derekgeorg.github.io/project_1_junkd/"
     },
     {
-      "id": 3,
-      "name": "Luck",
-      "image": "https://www.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/luck.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "three",
+      "name": "Trivia Game",
+      "image": "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "text": "Developed a basic game where the user is timed to answer 7 questions within 60 seconds per question. If they answer the questions correctly it turns green, if incorrect it turns red.",
+      "git": "A Pineapple Under the Sea",
+      "deployed" : "https://jamtor1994.github.io/Psychic-Game/"
     },
     {
-      "id": 4,
-      "name": "Charmy",
-      "image": "https://www.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/charmy.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "four",
+      "name": "Liri",
+      "image": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1066&q=80",
+      "text": "This application is designed to be relatively simple and fun to use. The Application runs on node.js and several other nod packages such as, Moment(formatting), and node-spotify-api. Axios and Spotify are used to obtain information for the application.",
+      "git": "https://github.com/JamTor1994/LIRI.git",
+      "deployed" : "https://jamtor1994.github.io/LIRI/"
     },
     {
-      "id": 5,
-      "name": "Gordon",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.WThqMAmycMjIs11n7pUSPgHaI1&pid=Api&P=0&w=300&h=300",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "five",
+      "name": "Giph",
+      "image": "https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif",
+      "text": "This project uses an api key that utilizes ajax to call upon data from giphy. This will allow uses to retrieve certain elements from giphy to assist in building our giphy finder site",
+      "git": "https://github.com/JamTor1994/GifyProject.git",
+      "deployed" : "https://jamtor1994.github.io/GifyProject/"
     },
     {
-      "id": 6,
-      "name": "Noelle",
-      "image": "https://www.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/noelle.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "six",
+      "name": "Bamazon",
+      "image": "https://images.unsplash.com/photo-1511120096-e7744308d1d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "text": "This app uses mysql and inquierer npms to make a shopping node app, as a bonuse i added a manager node that will allow people who know the password (bam) to order for the products aswell. Future plans is to add a supervisor js that would allow add products and order inventory for them using another password (amazon).",
+      "git": "https://github.com/JamTor1994/Bamazon.git",
+      "deployed" : "https://jamtor1994.github.io/Bamazon/"
     },
     {
-      "id": 7,
-      "name": "Finreal",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/finral.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "seven",
+      "name": "Watch-Dat-Anime",
+      "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "text": "Using Node Express and handle bars I made a website with its own server that where you can hold and create data that you have watched or want to watch.",
+      "git": "https://github.com/JamTor1994/Watch-Dat-Anime.git",
+      "deployed" : "https://animelisttracker.herokuapp.com/"
     },
     {
-      "id": 8,
-      "name": "Magna",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/magna.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
-    },
-    {
-      "id": 9,
-      "name": "Gouch",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/gauch.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
-    },
-    {
-      "id": 10,
-      "name": "Venessa",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/vanessa.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
-    },
-    {
-      "id": 11,
-      "name": "Grey",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/grey.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
-    },
-    {
-      "id": 12,
-      "name": "Yuno",
-      "image": "https://cdn.animenewsnetwork.com/thumbnails/max550x550/cms/news/119826/yuno.png.jpg",
-      "text": "Fry Cook",
-      "git": "A Pineapple Under the Sea"
+      "id": "eight",
+      "name": "Dat-a-Pet-2",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/71/70/61/7170612509c73701ad04f940d03abc07--old-english-bulldogs-english-bulldog-puppies.jpg",
+      "text": "Group 3 Project",
+      "git": "https://github.com/baldowin/2-dat-a-pet",
+      "deployed" : "https://datapet2.herokuapp.com/"
     }
   ]
   
