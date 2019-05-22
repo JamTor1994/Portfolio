@@ -3,7 +3,7 @@
       "id": "one",
       "name": "Pyschic Game",
       "image": "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-      "text": "The objective of this project was to write a program with JavaScript that would interact with users. The program generates a random letter for the user to guess.",
+      "text": "The objective of this project was to write a program that would interact with users.  The program generates a random letter for the user to guess.  If they guess correctly they would gain a win.  If the user guessed incorrectly they would get a loss. The program consists of an array which is then put into a loop to generate a letter, such as, a there are if else statement to make the condition so that the user would gain wins, losses, or run out of guesses",
       "git": "https://github.com/JamTor1994/Psychic-Game.git",
       "deployed" : "https://jamtor1994.github.io/Psychic-Game/"
     },
@@ -43,7 +43,7 @@
       "id": "six",
       "name": "Bamazon",
       "image": "https://images.unsplash.com/photo-1511120096-e7744308d1d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-      "text": "This app uses mysql and inquierer npms to make a shopping node app, as a bonuse i added a manager node that will allow people who know the password (bam) to order for the products aswell. Future plans is to add a supervisor js that would allow add products and order inventory for them using another password (amazon).",
+      "text": "This application uses mysql and inquirer( Check spelling) npms to make a shopping node app.  As a bonus I added a manager node that will allow people who know the password (bam) to order the products as well.  Future plan is to add a supervisor role that would allow the addition of products and the ordering of inventory by using another password (amazon).",
       "git": "https://github.com/JamTor1994/Bamazon.git",
       "deployed" : "https://jamtor1994.github.io/Bamazon/"
     },
@@ -51,7 +51,7 @@
       "id": "seven",
       "name": "Watch-Dat-Anime",
       "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-      "text": "Using Node Express and handle bars I made a website with its own server that where you can hold and create data that you have watched or want to watch.",
+      "text": "Using Node Express and Handle Bars, created a website that has its own server.  This allows a place to hold and create data that you have watched or would want to watch in the future.",
       "git": "https://github.com/JamTor1994/Watch-Dat-Anime.git",
       "deployed" : "https://animelisttracker.herokuapp.com/"
     },
@@ -70,6 +70,14 @@
       "text": "A Click matching game developed with a self made json file and React",
       "git": "https://github.com/JamTor1994/ClickyGameReact.git",
       "deployed" : "https://tranquil-coast-89369.herokuapp.com/"
+    },
+    {
+      "id": "ten",
+      "name": "Friend Finder",
+      "image": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+      "text": "By using nod and express ( Is this Nod or Node or Node Express?  The next one down has Node Express so change the one that is not correct), create a website which takes in users names and photos allowing them to take a survey.  By using body parcer, surveys are matched based on the answers provided thus finding friends with similar interests.",
+      "git": "https://github.com/JamTor1994/FriendFinder.git",
+      "deployed" : "https://ff1994.herokuapp.com/"
     }
   ]
   

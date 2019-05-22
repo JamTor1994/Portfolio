@@ -6,7 +6,7 @@
 }
 .title {
     text-align: center;
-    color: yellow;
+    color: white;
     margin-top: -110px;
 }
 
@@ -34,7 +34,9 @@
 
 }
 .btn-primary {
-    margin-right: 5px
+    margin-right: 5px;
+    background-color: #AA0505;
+    border-color: #6A0c0b;
 }
 
 @media only screen and (max-width: 700px) {
