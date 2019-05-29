@@ -51,7 +51,7 @@
       "id": "seven",
       "name": "Watch-Dat-Anime",
       "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-      "text": "Using Node Express and Handle Bars, created a website that has its own server.  This allows a place to hold and create data that you have watched or would want to watch in the future.",
+      "text": "Using Node Express and Handle Bars, created a application that has its own server.  This allows a place to hold and create data that you have watched or would want to watch in the future.",
       "git": "https://github.com/JamTor1994/Watch-Dat-Anime.git",
       "deployed" : "https://animelisttracker.herokuapp.com/"
     },
@@ -59,7 +59,7 @@
       "id": "eight",
       "name": "Dat-a-Pet-2",
       "image": "https://images.unsplash.com/photo-1525461649729-85047df1630f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "text": "Group 3 Projet 3, Developed an app that takes in pet user medical information and is able to be shared with others. This app made with React, SQL, and Materalize Css.",
+      "text": "Group 3 Projet 3, Developed an app that takes in pet user medical information and is able to be shared with others. This app made with React, SQL, and Materialize css",
       "git": "https://github.com/baldowin/2-dat-a-pet",
       "deployed" : "https://datapet2.herokuapp.com/"
     },
@@ -75,7 +75,7 @@
       "id": "ten",
       "name": "Friend Finder",
       "image": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
-      "text": "By using nod and express ( Is this Nod or Node or Node Express?  The next one down has Node Express so change the one that is not correct), create a website which takes in users names and photos allowing them to take a survey.  By using body parcer, surveys are matched based on the answers provided thus finding friends with similar interests.",
+      "text": "By using node and express, create a website which takes in users names and photos allowing them to take a survey.  By using body parser, surveys are matched based on the answers provided thus finding friends with similar interests.",
       "git": "https://github.com/JamTor1994/FriendFinder.git",
       "deployed" : "https://ff1994.herokuapp.com/"
     }
